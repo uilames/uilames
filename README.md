@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Olá! Sou um desenvolvedor Python iniciante apaixonado por tecnologia e ciência de dados. Estou empolgado em compartilhar meu progresso e projetos aqui no GitHub.
+Olá! Sou um desenvolvedor backend apaixonado por tecnologia e ciência de dados. Estou empolgado em compartilhar meu progresso e projetos aqui no GitHub.
 
-- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em Python.
+- 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em Python e Java.
 - 📊 Tenho um forte interesse em ciência de dados, análise de dados e machine learning.
-- ☕ Estou planejando aprender Java no futuro para expandir meu conjunto de habilidades e diversificar meu conhecimento em programação.
+- ☕ Estou aprendendo Java para expandir meu conjunto de habilidades e diversificar meu conhecimento em desenvolvimento de software.
 
 ## Aprendizado Contínuo
 
