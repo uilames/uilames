@@ -8,13 +8,6 @@ Olá! Sou um desenvolvedor Python iniciante apaixonado por tecnologia e ciência
 - 📊 Tenho um forte interesse em ciência de dados, análise de dados e machine learning.
 - ☕ Estou planejando aprender Java no futuro para expandir meu conjunto de habilidades e diversificar meu conhecimento em programação.
 
-## Projetos
-
-Aqui, você encontrará uma variedade de projetos relacionados à minha jornada como desenvolvedor:
-
-- 📚 [Projeto de Análise de Dados](link-para-o-repositorio): Um projeto de análise de dados usando Python, onde explorei conjuntos de dados interessantes e apliquei técnicas de visualização.
-- 🔗 [Outros projetos](link-para-o-repositorio): Você também pode conferir meus outros repositórios para ver meu progresso e experimentos.
-
 ## Aprendizado Contínuo
 
 Estou sempre em busca de aprender e melhorar minhas habilidades. Além de Python e Java, estou interessado em aprender mais sobre:
