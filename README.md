@@ -2,18 +2,11 @@
 
 ## Sobre mim
 
-Olá! Sou um desenvolvedor backend apaixonado por tecnologia e ciência de dados. Estou empolgado em compartilhar meu progresso e projetos aqui no GitHub.
+Olá! Sou um desenvolvedor backend apaixonado por tecnologia. Estou empolgado em compartilhar meu progresso e projetos aqui no GitHub.
 
 - 🌱 Atualmente, estou aprendendo e aprimorando minhas habilidades em Python e Java.
-- 📊 Tenho um forte interesse em ciência de dados, análise de dados e machine learning.
+- 📊 Tenho um forte interesse em otimizações e machine learning.
 - ☕ Estou aprendendo Java para expandir meu conjunto de habilidades e diversificar meu conhecimento em desenvolvimento de software.
-
-## Aprendizado Contínuo
-
-Estou sempre em busca de aprender e melhorar minhas habilidades. Além de Python e Java, estou interessado em aprender mais sobre:
-
-- 💡 Ciência de Dados e Análise de Dados.
-- 🤝 Colaboração e contribuição em projetos de código aberto.
 
 ## Contato
 
